@@ -1,4 +1,4 @@
-![GIF de bienvenida](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)
+![Programador Frustrado](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 
 # Hola, soy Guada 👋
