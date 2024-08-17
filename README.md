@@ -6,7 +6,7 @@
 
 Soy un desarrollador de software en constante aprendizaje
 
-- 🔭 Actualmente trabajando en 42 Barcelona.
+- 🔭 Actualmente estudiando en **42 Barcelona**.
 - 🌱 Aprendiendo **Ingenieria Software**
 - 👯 Buscando colaborar en proyectos.
 
