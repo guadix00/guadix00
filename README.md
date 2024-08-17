@@ -16,6 +16,8 @@ Soy un desarrollador de software en constante aprendizaje
 ### [Mi Proyecto Favorito](https://github.com/guadix00/get_next_line_bonus)
 ![Success](https://img.shields.io/badge/Success-%E2%9C%94%20Everything%20is%20fine-brightgreen)
 
+![Imagen del Proyecto](https://github.com/tu-usuario/mi-repo/raw/main/ruta-a-la-imagen.png)
+
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guadix00&show_icons=true&theme=radical)
