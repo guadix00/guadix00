@@ -13,8 +13,8 @@ Soy un desarrollador de software en constante aprendizaje
 
 ## Proyectos Destacados
 
-### [Mi Proyecto Favorito](https://github.com/tu-usuario/get_next_line_bonus)
-![Imagen del Proyecto](https://github.com/tu-usuario/mi-proyecto/raw/main/captura.png)
+### [Mi Proyecto Favorito](https://github.com/guadix00/get_next_line_bonus)
+![Imagen del Proyecto](https://github.com/guadix00/get_next_line_bonus/raw/main/captura.png)
 
 ## Estadísticas de GitHub
 
