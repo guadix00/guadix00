@@ -1,5 +1,6 @@
-![Programador Frustrado](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
+<p align="center">
+  <img src="https://i.imgur.com/UoR6OsK.png" alt="Welcome" />
+</p>
 
 # Hola, soy Guada 👋
 
