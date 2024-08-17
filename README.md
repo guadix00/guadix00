@@ -1,3 +1,6 @@
+![GIF de bienvenida](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)
+
+
 # Hola, soy Guada 👋
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen)
