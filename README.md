@@ -7,19 +7,19 @@
 **Software engineer in progress**
 
 - 🔭 Actualmente estudiando en **42 Barcelona**.
-- 🌱 Aprendiendo **Desarollo de software**
+- 🌱 Aprendiendo **Desarrollo de software**
 - 👯 Buscando colaborar en proyectos.
 
 ## Progreso en 42 Barcelona
 
-- **Milestone 0:** Completo [Detalles](https://example.com/hito1) ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
-- **Milestone 1:** Completo [Detalles](https://example.com/hito2) ![In Progress](https://img.shields.io/badge/Status-Complete-brightgreen)
-- **Milestone 2:** Pendiente [Detalles](https://example.com/hito3) ![Pending](https://img.shields.io/badge/Status-Pending-red)
+- **Milestone 0:** Completo [Detalles](https://example.com/hito1) <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Complete" width="120"/>
+- **Milestone 1:** Completo [Detalles](https://example.com/hito2) <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Complete" width="120"/>
+- **Milestone 2:** Pendiente [Detalles](https://example.com/hito3) <img src="https://img.shields.io/badge/Status-Pending-red" alt="Pending" width="120"/>
 
 ## Proyectos Destacados
 
 ### [Mi Proyecto Favorito](https://github.com/guadix00/get_next_line_bonus)
-![Outstanding](https://img.shields.io/badge/Outstanding-%E2%9C%94%20125/100-brightgreen)
+<img src="https://img.shields.io/badge/Outstanding-%E2%9C%94%20125/100-brightgreen" alt="Outstanding" width="120"/>
 
 ## Estadísticas de GitHub
 
