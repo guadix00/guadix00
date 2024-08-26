@@ -12,9 +12,9 @@ Soy un desarrollador de software en constante aprendizaje
 
 ## Progreso en 42 Barcelona
 
-- **Hito 1:** Completo [Detalles](https://example.com/hito1) ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
-- **Hito 2:** En Progreso [Detalles](https://example.com/hito2) ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
-- **Hito 3:** Pendiente [Detalles](https://example.com/hito3) ![Pending](https://img.shields.io/badge/Status-Pending-red)
+- **Milestone 0:** Completo [Detalles](https://example.com/hito1) ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
+- **Milestone 1:** Completo [Detalles](https://example.com/hito2) ![In Progress](https://img.shields.io/badge/Status-Complete-brightgreen)
+- **Milestone 2:** Pendiente [Detalles](https://example.com/hito3) ![Pending](https://img.shields.io/badge/Status-Pending-red)
 
 ## Proyectos Destacados
 
