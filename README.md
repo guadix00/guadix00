@@ -3,6 +3,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen" alt="Visitas al perfil" width="120"/>
 
+# Hola, soy Guada 👋
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen)
+
 ## Sobre mí
 
 **Software engineer in progress**
@@ -31,6 +35,8 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guadix00&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guadix00&layout=compact&theme=radical)
+
+
 
 
 
