@@ -12,17 +12,17 @@
 
 ## Progreso en 42 Barcelona
 
-- **Milestone 0:** Completo
+- **Milestone 0:** 
   <br/>
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Complete" width="120"/>
 
-- **Milestone 1:** Completo
+- **Milestone 1:** 
   <br/>
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Complete" width="120"/>
 
-- **Milestone 2:** Pendiente
+- **Milestone 2:** 
   <br/>
-  <img src="https://img.shields.io/badge/Status-Pending-red" alt="Pending" width="120"/>
+  <img src="https://img.shields.io/badge/Status-Pending-red" alt="work in progress" width="120"/>
 
 ## Proyectos Destacados
 
