@@ -1,6 +1,7 @@
+
 # Hola, soy Guada 👋
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen" alt="Visitas al perfil" width="120"/>
 
 ## Sobre mí
 
@@ -13,15 +14,12 @@
 ## Progreso en 42 Barcelona
 
 - **Milestone 0:** 
-  <br/>
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Success!" width="120"/>
 
 - **Milestone 1:** 
-  <br/>
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Success!" width="120"/>
 
 - **Milestone 2:** 
-  <br/>
   <img src="https://img.shields.io/badge/Status-Pending-red" alt="work in progress" width="120"/>
 
 ## Proyectos Destacados
@@ -33,5 +31,6 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guadix00&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guadix00&layout=compact&theme=radical)
+
 
 
