@@ -11,6 +11,12 @@
 - 🌱 Aprendiendo **Desarrollo de software**
 - 👯 Buscando colaborar en proyectos.
 
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guadix00&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guadix00&layout=compact&theme=radical)
+
+
 ## Progreso en 42 Barcelona
 
 - **Milestone 0:** 
@@ -27,10 +33,6 @@
 ### [Mi Proyecto Favorito](https://github.com/guadix00/get_next_line_bonus)
 <img src="https://img.shields.io/badge/Outstanding-%E2%9C%94%20125/100-brightgreen" alt="Outstanding" width="180"/>
 
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guadix00&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guadix00&layout=compact&theme=radical)
 
 
 
