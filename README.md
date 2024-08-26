@@ -14,11 +14,11 @@
 
 - **Milestone 0:** 
   <br/>
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Complete" width="120"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Success!" width="120"/>
 
 - **Milestone 1:** 
   <br/>
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Complete" width="120"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Success!" width="120"/>
 
 - **Milestone 2:** 
   <br/>
