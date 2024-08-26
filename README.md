@@ -30,7 +30,7 @@
 
 ## Proyectos Destacados
 
-### [Mi Proyecto Favorito](https://github.com/guadix00/get_next_line_bonus)
+### [get_next_line](https://github.com/guadix00/get_next_line_bonus)
 <img src="https://img.shields.io/badge/Outstanding-%E2%9C%94%20125/100-brightgreen" alt="Outstanding" width="180"/>
 
 
