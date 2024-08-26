@@ -4,10 +4,10 @@
 
 ## Sobre mí
 
-Soy un desarrollador de software en constante aprendizaje
+**Software engineer in progress**
 
 - 🔭 Actualmente estudiando en **42 Barcelona**.
-- 🌱 Aprendiendo **Ingeniería de Software**
+- 🌱 Aprendiendo **Desarollo de software**
 - 👯 Buscando colaborar en proyectos.
 
 ## Progreso en 42 Barcelona
