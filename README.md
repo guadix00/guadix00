@@ -1,7 +1,7 @@
 
 # Hola, soy Guada 👋
 
-<img src="https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen" alt="Visitas al perfil" width="120"/>
+<img src="https://komarev.com/ghpvc/?username=guadix00&color=brightgreen" alt="Visitas al perfil" width="120"/>
 
 ## Sobre mí
 
