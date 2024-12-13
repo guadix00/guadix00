@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Status-Success!-brightgreen" alt="Success!" width="100"/>
 
 - **Milestone 2:**  
-  <img src="https://img.shields.io/badge/Status-Pending-red" alt="work in progress" width="100"/>
+  <img src="https://img.shields.io/badge/Status-Success!-brightgreen" alt="Succes!" width="100"/>
 
 ## Featured Projects
 
